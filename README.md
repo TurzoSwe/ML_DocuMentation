@@ -2,7 +2,7 @@
 
 This repository represents my complete Machine Learning learning journey — from basic to advanced level.
 
-## 🚀 What I Learned
+##  What I Learned
 
 ### 🔹 Basic Level
 
@@ -26,29 +26,29 @@ This repository represents my complete Machine Learning learning journey — fro
   * K-Means Clustering
 * Model training & evaluation
 
-## 📁 Repository Contents
+##  Repository Contents
 
-* 📘 Jupyter Notebooks (.ipynb)
-* 📊 Datasets (.csv)
-* 📈 Visualization plots
+*  Jupyter Notebooks (.ipynb)
+*  Datasets (.csv)
+*  Visualization plots
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
-* Python 🐍
+* Python 
 * Pandas
 * NumPy
 * Matplotlib
 * Seaborn
 * Scikit-learn
 
-## 🎯 Goal
+##  Goal
 
 To become skilled in Machine Learning and apply knowledge to real-world problems.
 
-## 🙋‍♂️ Author
+##  Author
 
 **TurzoSwe**
 
 ---
 
-⭐ If you like this repository, give it a star!
+ If you like this repository, give it a star!
